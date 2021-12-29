@@ -164,7 +164,7 @@ export async function activate() {
 				documentSelector: [
 					{scheme: 'file', language: 'fortran', pattern: `${folder.uri.fsPath}/**/*`},
 					{scheme: 'file', language: 'fortran-modern', pattern: `${folder.uri.fsPath}/**/*`},
-					{scheme: 'file', language: 'fortran_fixed-form', pattern: `${folder.uri.fsPath}/**/*`},
+					{scheme: 'file', language: 'FortranFixedForm', pattern: `${folder.uri.fsPath}/**/*`},
 					{scheme: 'file', language: 'FortranFreeForm', pattern: `${folder.uri.fsPath}/**/*`}
 				],
 				workspaceFolder: folder

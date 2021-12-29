@@ -28,7 +28,6 @@
     "activationEvents": [
         "onLanguage:fortran",
         "onLanguage:fortran-modern",
-        "onLanguage:fortran_fixed-form",
         "onLanguage:FortranFixedForm",
         "onLanguage:FortranFreeForm"
     ],

@@ -63,7 +63,7 @@ This can be done selectively in fortran files by adding the snippet below to you
     "[fortran]": {
         "editor.acceptSuggestionOnEnter": "off"
     },
-    "[fortran_fixed-form]": {
+    "[FortranFixedForm]": {
         "editor.acceptSuggestionOnEnter": "off"
     },
     "[FortranFreeForm]": {
