@@ -29,6 +29,7 @@
         "onLanguage:fortran",
         "onLanguage:fortran-modern",
         "onLanguage:fortran_fixed-form",
+        "onLanguage:FortranFixedForm",
         "onLanguage:FortranFreeForm"
     ],
     "main": "./out/src/extension",
@@ -137,6 +138,6 @@
     "devDependencies": {
         "@types/node": "8.10.29",
         "typescript": "3.1.6",
-        "vscode": "1.1.21"
+        "vscode": "^1.1.37"
     }
 }
